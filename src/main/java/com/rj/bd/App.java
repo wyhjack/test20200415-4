@@ -16,5 +16,6 @@ public class App
         ObjectMapper mapper=new ObjectMapper();
         String result = mapper.writeValueAsString(map);
         System.out.println(result);
+        System.out.println("再次输出");
     }
 }

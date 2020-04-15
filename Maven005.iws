@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfbd339-be79-4847-85c5-5a68c9b595a3" name="Default Changelist" comment="" />
+    <list default="true" id="ecfbd339-be79-4847-85c5-5a68c9b595a3" name="Default Changelist" comment="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中">
+      <change beforePath="$PROJECT_DIR$/Maven005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven005.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven005.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rj/bd/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rj/bd/App.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1aYfmx6cGxeZINrcNf80cY3EFAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,11 +91,23 @@
       <option name="presentableId" value="Default" />
       <updated>1586917611041</updated>
       <workItem from="1586917614172" duration="1011000" />
-      <workItem from="1586919238242" duration="271000" />
+      <workItem from="1586919238242" duration="4264000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中">
+      <created>1586919614281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586919614281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中" />
   </component>
 </project>
