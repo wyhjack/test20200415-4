@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfbd339-be79-4847-85c5-5a68c9b595a3" name="Default Changelist" comment="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中">
-      <change beforePath="$PROJECT_DIR$/Maven005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maven005.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.ipr" afterDir="false" />
+    <list default="true" id="ecfbd339-be79-4847-85c5-5a68c9b595a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Maven005.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Maven005.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/rj/bd/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rj/bd/App.java" afterDir="false" />
     </list>
@@ -41,7 +39,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -91,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586917611041</updated>
       <workItem from="1586917614172" duration="1011000" />
-      <workItem from="1586919238242" duration="4264000" />
+      <workItem from="1586919238242" duration="5002000" />
+      <workItem from="1586934098772" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中">
       <created>1586919614281</created>
@@ -100,14 +99,36 @@
       <option name="project" value="LOCAL" />
       <updated>1586919614281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次的提交">
+      <created>1586933389664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586933389664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中" />
-    <option name="LAST_COMMIT_MESSAGE" value="IDEA中基于maven创建的java项目的初始化，将其提交到本地仓库中" />
+    <MESSAGE value="第二次的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次的提交" />
   </component>
 </project>

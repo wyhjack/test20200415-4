@@ -17,5 +17,7 @@ public class App
         String result = mapper.writeValueAsString(map);
         System.out.println(result);
         System.out.println("再次输出");
+        System.out.println("1111");
+        System.out.println("1111");
     }
 }
